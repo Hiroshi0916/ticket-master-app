@@ -3,7 +3,7 @@
 ## Overview
 
 This application is a browser-based system built to search and display event details leveraging the Ticketmaster API. It's structured into three core components: a browser frontend, a Node.js backend, and the Ticketmaster server.
-# This is an academic project, so the code is not publicly available. If requested during the hiring process, I will grant access permissions
+### This is an academic project, so the code is not publicly available. If requested during the hiring process, I will grant access permissions
 
 <img width="1452" alt="スクリーンショット 2023-08-19 午前2 18 49" src="https://github.com/Hiroshi0916/ticket-master-app/assets/25889574/1a5675be-e1dd-4a02-bfd6-b6a3116ee13c">
 [See the live application here](https://csci571-hw8-379104.wl.r.appspot.com/search)
